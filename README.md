@@ -51,7 +51,7 @@ BreastCancer_Registration/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/BreastCancer_Registration.git
+   git clone https://github.com/MohammedAdilSayyed/BreastCancer_Registration.git
    cd BreastCancer_Registration
    ```
 
@@ -152,8 +152,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/BreastCancer_Registration](https://github.com/yourusername/BreastCancer_Registration)
-- **Issues**: [https://github.com/yourusername/BreastCancer_Registration/issues](https://github.com/yourusername/BreastCancer_Registration/issues)
+- **Project Link**: [https://github.com/MohammedAdilSayyed/BreastCancer_Registration](https://github.com/MohammedAdilSayyed/BreastCancer_Registration)
+- **Issues**: [https://github.com/MohammedSayyed/BreastCancer_Registration/issues](https://github.com/MohammedAdilSayyed/BreastCancer_Registration/issues)
 
 ## 🔄 Version History
 
@@ -164,3 +164,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you find it helpful!**
+
