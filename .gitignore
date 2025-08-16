@@ -1,0 +1,82 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch models (too large for GitHub)
+*.pth
+*.pt
+*.pkl
+
+# Data files (too large for GitHub)
+data/
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.nii
+*.nii.gz
+
+# Results and checkpoints
+results/
+checkpoints/
+*.ckpt
+
+# TensorBoard logs
+tensorboard/
+logs/
+runs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Large files
+*.h5
+*.hdf5
+*.mat
+*.csv
+*.json
